@@ -1,6 +1,6 @@
 #include "gearbox.hpp"
 
-sfge::gearbox::gearbox() {
+sfge::gearbox::gearbox() : gear(0) {
 
 }
 
